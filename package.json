@@ -1,0 +1,15 @@
+{
+  "name": "nlw",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "author": "Vitor Figueiredo",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1",
+    "sqlite3": "https://github.com/mapbox/node-sqlite3/tarball/master"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
